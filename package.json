@@ -11,7 +11,9 @@
   ],
   "author": "Tommy May <tommymay37@gmail.com>",
   "main": "dist/index.js",
-  "scripts": {},
+  "scripts": {
+    "package": "standard-version"
+  },
   "dependencies": {},
   "devDependencies": {
     "eslint": "~3.9.1",
