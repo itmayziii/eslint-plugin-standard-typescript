@@ -23,6 +23,6 @@ Add `standard-typescript` to the extends section of your ESLint configuration fi
 
 ```json
 {
-    "extends": ["plugin:standard-typescript"]
+    "extends": ["plugin:standard-typescript/recommended"]
 }
 ```
