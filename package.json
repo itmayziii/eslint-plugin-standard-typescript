@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-standard-typescript",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "description": "Standard JS with Typescript playing nice with each other.",
   "keywords": [
     "standardjs",
