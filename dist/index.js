@@ -9,9 +9,10 @@ module.exports = {
   },
   configs: {
     recommended: {
-      plugins: ['standard-typescript', '@typescript-eslint'],
+      extends: ['standard', 'plugin:@typescript-eslint/recommended'],
+      plugins: ['standard-typescript'],
       env: {
-        typescript: true
+        'standard-typescript/typescript': true
       },
       rules: {
         // Standard turns this rule off.
