@@ -10,7 +10,9 @@ module.exports = {
   configs: {
     recommended: {
       plugins: ['standard-typescript', '@typescript-eslint'],
-      env: ['typescript'],
+      env: {
+        typescript: true
+      },
       rules: {
         // Standard turns this rule off.
         '@typescript-eslint/no-use-before-define': 'off',
