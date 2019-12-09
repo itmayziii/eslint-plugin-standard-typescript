@@ -19,7 +19,7 @@ npm i eslint eslint-plugin-standard-typescript @typescript-eslint/eslint-plugin 
 
 ## Usage
 
-Add `standard-typescript` to the extends section of your ESLint configuration file.
+Add `plugin:standard-typescript/recommended` to the extends section of your ESLint configuration file.
 
 ```json
 {
