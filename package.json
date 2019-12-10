@@ -2,6 +2,10 @@
   "name": "eslint-plugin-standard-typescript",
   "version": "1.0.0",
   "description": "Standard JS with Typescript playing nice with each other.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itmayziii/eslint-plugin-standard-typescript"
+  },
   "keywords": [
     "standardjs",
     "typescript",
