@@ -1,5 +1,12 @@
 # eslint-plugin-standard-typescript
 
+:rotating_light: **DEPRECATED** :rotating_light:
+
+**Please instead use the [config](https://www.npmjs.com/package/eslint-config-standard-with-typescript) that is
+maintained by the [standard](https://standardjs.com/) team.**
+
+---
+
 Standard JS with Typescript playing nice with each other.
 
 Some of the ESLint rules between Typescript and Standard overlap or contradict each other. This package combines the 2 configurations and
