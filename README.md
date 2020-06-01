@@ -1,3 +1,5 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # eslint-plugin-standard-typescript
 
 :rotating_light: **DEPRECATED** :rotating_light:
